@@ -1,4 +1,6 @@
-# Taylorworthing Tap
+# TaylorWorthing/tap
+
+A tap for my personal homebrew formulas and casks.
 
 ## How do I install these formulae?
 
